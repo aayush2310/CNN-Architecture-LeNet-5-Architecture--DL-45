@@ -1,4 +1,1 @@
-LeNet-5=>first CNN architecture
-
-
-
+LeNet-5=>first CNN architecture-avg pooling layer-the deeper we go in our CNN,the size of filters increases.
